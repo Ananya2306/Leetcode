@@ -28,6 +28,7 @@
 | [0064-minimum-path-sum](https://github.com/Ananya2306/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananya2306/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya2306/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananya2306/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,8 +51,21 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ananya2306/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ananya2306/Leetcode/tree/master/0064-minimum-path-sum) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
