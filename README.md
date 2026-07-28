@@ -34,6 +34,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya2306/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ananya2306/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Ananya2306/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Binary Search
 |  |
 | ------- |
