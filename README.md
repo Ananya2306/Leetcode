@@ -47,6 +47,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananya2306/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
 ## Stack
 |  |
 | ------- |
@@ -133,4 +135,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Design
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
