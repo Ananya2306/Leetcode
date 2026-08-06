@@ -141,8 +141,13 @@
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
+| [1845-seat-reservation-manager](https://github.com/Ananya2306/Leetcode/tree/master/1845-seat-reservation-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1845-seat-reservation-manager](https://github.com/Ananya2306/Leetcode/tree/master/1845-seat-reservation-manager) |
 <!---LeetCode Topics End-->
