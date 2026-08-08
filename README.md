@@ -35,6 +35,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya2306/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ananya2306/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0575-distribute-candies](https://github.com/Ananya2306/Leetcode/tree/master/0575-distribute-candies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ananya2306/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananya2306/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
+| [0575-distribute-candies](https://github.com/Ananya2306/Leetcode/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
 ## Divide and Conquer
