@@ -39,6 +39,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ananya2306/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0279-perfect-squares](https://github.com/Ananya2306/Leetcode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Ananya2306/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 ## Counting Sort
 |  |
 | ------- |
@@ -158,4 +161,12 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ananya2306/Leetcode/tree/master/0055-jump-game) |
+## Geometry
+|  |
+| ------- |
+| [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
+## Ordered Set
+|  |
+| ------- |
+| [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 <!---LeetCode Topics End-->
