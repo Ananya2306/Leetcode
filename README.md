@@ -52,6 +52,7 @@
 | [0575-distribute-candies](https://github.com/Ananya2306/Leetcode/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
+| [3408-design-task-manager](https://github.com/Ananya2306/Leetcode/tree/master/3408-design-task-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | ------- |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
 | [1845-seat-reservation-manager](https://github.com/Ananya2306/Leetcode/tree/master/1845-seat-reservation-manager) |
+| [3408-design-task-manager](https://github.com/Ananya2306/Leetcode/tree/master/3408-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [1845-seat-reservation-manager](https://github.com/Ananya2306/Leetcode/tree/master/1845-seat-reservation-manager) |
+| [3408-design-task-manager](https://github.com/Ananya2306/Leetcode/tree/master/3408-design-task-manager) |
 ## Greedy
 |  |
 | ------- |
@@ -169,4 +172,5 @@
 |  |
 | ------- |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
+| [3408-design-task-manager](https://github.com/Ananya2306/Leetcode/tree/master/3408-design-task-manager) |
 <!---LeetCode Topics End-->
