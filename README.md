@@ -39,6 +39,7 @@
 | [0575-distribute-candies](https://github.com/Ananya2306/Leetcode/tree/master/0575-distribute-candies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ananya2306/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ananya2306/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananya2306/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananya2306/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 ## Recursion
 |  |
 | ------- |
