@@ -92,6 +92,7 @@
 | [0006-zigzag-conversion](https://github.com/Ananya2306/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Trie
 |  |
@@ -195,4 +196,8 @@
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3408-design-task-manager](https://github.com/Ananya2306/Leetcode/tree/master/3408-design-task-manager) |
 | [3885-design-event-manager](https://github.com/Ananya2306/Leetcode/tree/master/3885-design-event-manager) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
