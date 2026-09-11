@@ -94,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/Ananya2306/Leetcode/tree/master/0824-goat-latin) |
+| [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Trie
 |  |
@@ -201,4 +202,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
