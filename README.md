@@ -93,6 +93,7 @@
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/Ananya2306/Leetcode/tree/master/0824-goat-latin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Trie
 |  |
