@@ -92,6 +92,7 @@
 | [0006-zigzag-conversion](https://github.com/Ananya2306/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/Ananya2306/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/Ananya2306/Leetcode/tree/master/0824-goat-latin) |
 | [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
