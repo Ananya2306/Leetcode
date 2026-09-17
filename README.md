@@ -98,6 +98,7 @@
 | [0824-goat-latin](https://github.com/Ananya2306/Leetcode/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/Ananya2306/Leetcode/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
+| [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Trie
 |  |
@@ -205,8 +206,25 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
