@@ -75,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Ananya2306/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ananya2306/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
@@ -94,6 +95,7 @@
 | [0006-zigzag-conversion](https://github.com/Ananya2306/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Ananya2306/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Ananya2306/Leetcode/tree/master/0520-detect-capital) |
@@ -237,4 +239,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
