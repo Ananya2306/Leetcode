@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Ananya2306/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ananya2306/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
@@ -96,6 +97,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ananya2306/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Ananya2306/Leetcode/tree/master/0520-detect-capital) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
@@ -240,6 +243,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
