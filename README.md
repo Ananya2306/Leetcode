@@ -83,6 +83,7 @@
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ananya2306/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Ananya2306/Leetcode/tree/master/0279-perfect-squares) |
+| [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3640-trionic-array-ii](https://github.com/Ananya2306/Leetcode/tree/master/3640-trionic-array-ii) |
 ## Matrix
@@ -103,6 +104,7 @@
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Ananya2306/Leetcode/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/Ananya2306/Leetcode/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/Ananya2306/Leetcode/tree/master/0859-buddy-strings) |
@@ -129,6 +131,7 @@
 | [0020-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ananya2306/Leetcode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
 ## Geometry
 |  |
@@ -246,6 +250,7 @@
 | [0020-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
