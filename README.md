@@ -40,6 +40,7 @@
 | [0575-distribute-candies](https://github.com/Ananya2306/Leetcode/tree/master/0575-distribute-candies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ananya2306/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
@@ -142,6 +143,7 @@
 | [0029-divide-two-integers](https://github.com/Ananya2306/Leetcode/tree/master/0029-divide-two-integers) |
 | [0279-perfect-squares](https://github.com/Ananya2306/Leetcode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Ananya2306/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 ## Bit Manipulation
