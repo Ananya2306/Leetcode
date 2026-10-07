@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/Ananya2306/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Ananya2306/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -238,6 +239,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ananya2306/Leetcode/tree/master/0283-move-zeroes) |
 | [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
