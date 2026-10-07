@@ -42,6 +42,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ananya2306/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ananya2306/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
