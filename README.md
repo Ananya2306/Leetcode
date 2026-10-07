@@ -36,6 +36,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya2306/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ananya2306/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0283-move-zeroes](https://github.com/Ananya2306/Leetcode/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananya2306/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Ananya2306/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Ananya2306/Leetcode/tree/master/0575-distribute-candies) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Ananya2306/Leetcode/tree/master/0283-move-zeroes) |
 | [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
 ## Rolling Hash
 |  |
