@@ -18,6 +18,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ananya2306/Leetcode/tree/master/0101-symmetric-tree) |
 | [0279-perfect-squares](https://github.com/Ananya2306/Leetcode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/Ananya2306/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0520-detect-capital](https://github.com/Ananya2306/Leetcode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Ananya2306/Leetcode/tree/master/0796-rotate-string) |
@@ -273,4 +275,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
