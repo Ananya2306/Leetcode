@@ -119,6 +119,7 @@
 | [0859-buddy-strings](https://github.com/Ananya2306/Leetcode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ananya2306/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Trie
@@ -144,6 +145,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ananya2306/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ananya2306/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
