@@ -52,6 +52,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ananya2306/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3640-trionic-array-ii](https://github.com/Ananya2306/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -291,4 +292,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ananya2306/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
