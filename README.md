@@ -53,6 +53,7 @@
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ananya2306/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3640-trionic-array-ii](https://github.com/Ananya2306/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -72,6 +73,7 @@
 | [0859-buddy-strings](https://github.com/Ananya2306/Leetcode/tree/master/0859-buddy-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3408-design-task-manager](https://github.com/Ananya2306/Leetcode/tree/master/3408-design-task-manager) |
 | [3885-design-event-manager](https://github.com/Ananya2306/Leetcode/tree/master/3885-design-event-manager) |
@@ -170,6 +172,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ananya2306/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Ananya2306/Leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Queue
 |  |
@@ -236,6 +239,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya2306/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |
