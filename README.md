@@ -165,6 +165,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
