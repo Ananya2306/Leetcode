@@ -53,6 +53,7 @@
 | [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ananya2306/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ananya2306/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ananya2306/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
@@ -221,6 +223,7 @@
 | [0242-valid-anagram](https://github.com/Ananya2306/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ananya2306/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya2306/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
