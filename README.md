@@ -145,6 +145,7 @@
 | [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya2306/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ananya2306/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
