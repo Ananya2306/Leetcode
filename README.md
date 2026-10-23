@@ -67,6 +67,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3885-design-event-manager](https://github.com/Ananya2306/Leetcode/tree/master/3885-design-event-manager) |
 | [3886-sum-of-sortable-integers](https://github.com/Ananya2306/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ananya2306/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
