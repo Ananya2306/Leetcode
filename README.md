@@ -171,6 +171,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ananya2306/Leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Ananya2306/Leetcode/tree/master/0141-linked-list-cycle) |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Ananya2306/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ananya2306/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ananya2306/Leetcode/tree/master/0189-rotate-array) |
