@@ -9,6 +9,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya2306/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/Ananya2306/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya2306/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [3640-trionic-array-ii](https://github.com/Ananya2306/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ananya2306/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ananya2306/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/Ananya2306/Leetcode/tree/master/3885-design-event-manager) |
 | [3886-sum-of-sortable-integers](https://github.com/Ananya2306/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -106,6 +109,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ananya2306/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ananya2306/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -160,6 +164,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya2306/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2409-count-days-spent-together](https://github.com/Ananya2306/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ananya2306/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
@@ -214,6 +219,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ananya2306/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Ananya2306/Leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ananya2306/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ananya2306/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
@@ -355,11 +361,13 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ananya2306/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ananya2306/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ananya2306/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ananya2306/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
