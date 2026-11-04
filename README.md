@@ -71,6 +71,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ananya2306/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya2306/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya2306/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3640-trionic-array-ii](https://github.com/Ananya2306/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -105,6 +106,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ananya2306/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3408-design-task-manager](https://github.com/Ananya2306/Leetcode/tree/master/3408-design-task-manager) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya2306/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3885-design-event-manager](https://github.com/Ananya2306/Leetcode/tree/master/3885-design-event-manager) |
 ## Divide and Conquer
@@ -132,6 +134,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3640-trionic-array-ii](https://github.com/Ananya2306/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Ananya2306/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ananya2306/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -215,6 +218,7 @@
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2409-count-days-spent-together](https://github.com/Ananya2306/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ananya2306/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Ananya2306/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -239,6 +243,7 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -291,6 +296,7 @@
 | [1845-seat-reservation-manager](https://github.com/Ananya2306/Leetcode/tree/master/1845-seat-reservation-manager) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3408-design-task-manager](https://github.com/Ananya2306/Leetcode/tree/master/3408-design-task-manager) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3885-design-event-manager](https://github.com/Ananya2306/Leetcode/tree/master/3885-design-event-manager) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ananya2306/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
