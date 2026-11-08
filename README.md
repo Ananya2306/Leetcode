@@ -16,6 +16,7 @@
 | [0101-symmetric-tree](https://github.com/Ananya2306/Leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/Ananya2306/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananya2306/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya2306/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -25,6 +26,7 @@
 | [0279-perfect-squares](https://github.com/Ananya2306/Leetcode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Ananya2306/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Ananya2306/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananya2306/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya2306/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -57,6 +59,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1254-number-of-closed-islands](https://github.com/Ananya2306/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananya2306/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ananya2306/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
@@ -149,6 +152,7 @@
 | [0064-minimum-path-sum](https://github.com/Ananya2306/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananya2306/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1254-number-of-closed-islands](https://github.com/Ananya2306/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananya2306/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya2306/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -285,6 +289,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ananya2306/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
@@ -400,6 +405,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ananya2306/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ananya2306/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya2306/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
