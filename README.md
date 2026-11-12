@@ -78,6 +78,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ananya2306/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya2306/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya2306/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
