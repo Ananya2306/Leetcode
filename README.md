@@ -79,6 +79,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3102-minimize-manhattan-distances](https://github.com/Ananya2306/Leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ananya2306/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya2306/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2747-count-zero-request-servers](https://github.com/Ananya2306/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ananya2306/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -270,6 +272,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
 |  |
 | ------- |
