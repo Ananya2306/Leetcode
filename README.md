@@ -65,6 +65,7 @@
 | [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ananya2306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ananya2306/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ananya2306/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Ananya2306/Leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -145,6 +146,7 @@
 | [0152-maximum-product-subarray](https://github.com/Ananya2306/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Ananya2306/Leetcode/tree/master/0279-perfect-squares) |
 | [0678-valid-parenthesis-string](https://github.com/Ananya2306/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ananya2306/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -230,6 +232,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ananya2306/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ananya2306/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ananya2306/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ananya2306/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2409-count-days-spent-together](https://github.com/Ananya2306/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -271,6 +274,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Ananya2306/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ananya2306/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1314-matrix-block-sum](https://github.com/Ananya2306/Leetcode/tree/master/1314-matrix-block-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ananya2306/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2132-stamping-the-grid](https://github.com/Ananya2306/Leetcode/tree/master/2132-stamping-the-grid) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
