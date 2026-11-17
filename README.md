@@ -15,6 +15,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ananya2306/Leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/Ananya2306/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ananya2306/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ananya2306/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -210,6 +211,7 @@
 | [0061-rotate-list](https://github.com/Ananya2306/Leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Ananya2306/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
 ## Stack
 |  |
@@ -321,6 +323,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Ananya2306/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1797-design-authentication-manager](https://github.com/Ananya2306/Leetcode/tree/master/1797-design-authentication-manager) |
 ## Heap (Priority Queue)
 |  |
