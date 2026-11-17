@@ -150,6 +150,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ananya2306/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ananya2306/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ananya2306/Leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ananya2306/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3640-trionic-array-ii](https://github.com/Ananya2306/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Ananya2306/Leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -192,6 +193,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ananya2306/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ananya2306/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ananya2306/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ananya2306/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ananya2306/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ananya2306/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -377,6 +379,7 @@
 | [0925-long-pressed-name](https://github.com/Ananya2306/Leetcode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ananya2306/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ananya2306/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Rolling Hash
 |  |
 | ------- |
