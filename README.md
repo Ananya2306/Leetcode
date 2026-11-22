@@ -198,6 +198,7 @@
 | [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ananya2306/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ananya2306/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ananya2306/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ananya2306/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ananya2306/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ananya2306/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
