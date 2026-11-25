@@ -103,6 +103,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ananya2306/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/Ananya2306/Leetcode/tree/master/3885-design-event-manager) |
 | [3886-sum-of-sortable-integers](https://github.com/Ananya2306/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ananya2306/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ananya2306/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ananya2306/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ananya2306/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ananya2306/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ananya2306/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3885-design-event-manager](https://github.com/Ananya2306/Leetcode/tree/master/3885-design-event-manager) |
+| [3934-smallest-unique-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -404,10 +407,12 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
+| [3934-smallest-unique-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Ananya2306/Leetcode/tree/master/1392-longest-happy-prefix) |
+| [3934-smallest-unique-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -494,4 +499,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ananya2306/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ananya2306/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
